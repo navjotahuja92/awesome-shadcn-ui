@@ -56,6 +56,7 @@
 - [gradient-picker](https://github.com/Illyism/gradient-picker) - Fancy Gradient Picker, built with Shadcn UI, Radix UI and Tailwind CSS.
 - [open-status](https://github.com/openstatushq/openstatus) - The open-source status page.
 - [scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal.
+- [Rangeen](https://github.com/navnote/rangeen) - Rangeen is a [web application](https://navnote.github.io/rangeen/) to explore theme colors using Google Material utilities.
 
 ## Boilerplates
 
